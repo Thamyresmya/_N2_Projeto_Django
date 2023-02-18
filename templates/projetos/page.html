@@ -1,0 +1,21 @@
+{% extends 'projetos/base.html' %}
+{% load static %}
+{% block content %}
+
+    </article>  
+        <nav>
+            <form action="/index" method="POST"> {% csrf_token %}       
+                <button class="button button-3" type="submit">Logout</button>
+            </form> 
+        </nav>
+
+        <div class="center">
+            <h2>Sejam bem vindos sou a </h2>
+            <img src="https://github.com/Thamyresmya.png"/>              
+            <h1>Thamyres Cavalcante</h1>                    
+            <h3>Desenvolvedora Back-End Jr. Java & Python</h3>       
+        </div>
+    </article>
+
+{% endblock %}
+

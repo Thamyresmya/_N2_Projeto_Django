@@ -1,0 +1,23 @@
+{% extends 'projetos/base.html' %}
+{% load static %}
+{% block content %}
+     
+        </article>
+            <div class="center">
+                <h2>Faça seu login</h2>
+                <div class="login">
+                    <form action="/page" method="POST"> {% csrf_token %}
+                        <label>Usuário:</label><br>
+                        <input type="text" placeholder="Digite seu login" ><br>
+                        
+                        <label >Senha:</label><br>
+                        <input type="password" placeholder="Digite sua senha"><br><br>
+                        
+                        <input class="button button-1" type="submit">
+                        <input class="button button-2" type="reset">
+                    </form>
+                </div>
+            </div>
+        </article>
+      
+{% endblock %}
