@@ -1,17 +1,12 @@
-# Projeto Pessoal de Contas
+# Projeto Pessoal N2
 
-Projeto de desenvolvimento web realizado com Django.
+<br>
 
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | **Projeto Alura Space**
-| :label: Tecnologias | HTML5, CSS3, Django, Python
-| :rocket: URL         | thamyresmya.github.io/Space_alura/
-| :fire: Desafio     | 
+<p align="center">
+Projeto de desenvolvimento web com Django
+</p>
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](capa.png)
-
+<br>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
@@ -34,14 +29,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto pessoal para desenvolver o conhecimento adiquirido durante os cursos sobre Django.
+Projeto pessoal para desenvolver e aprimorar conhecimentos sobre Django.
+Utilizei boas práticas coṁ templates, renderizações de página no Django, estruturas partials para evitar duplicação de código.
+
 
 <br>
 
 ## 📸 Gif
 Projeto pessoal
 
-<img width="70%" height="300" src="img/"></img>
+<img width="70%" height="300" src="static/vid/N2_proj_django.gif"></img>
 
 
 <br>
